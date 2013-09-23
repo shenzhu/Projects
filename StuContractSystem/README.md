@@ -1,0 +1,1 @@
+This is a student contract system written in C++.
